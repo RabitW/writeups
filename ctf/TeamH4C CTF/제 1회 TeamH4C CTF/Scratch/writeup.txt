@@ -1,0 +1,10 @@
+페이지 소스를 보다보면 중간에 이런게 있다.
+
+<input type="password" name="galf" value="IzFzdGhpc3MwbTNraW5kT2ZKb2tlPz8j"></p>
+
+IzFzdGhpc3MwbTNraW5kT2ZKb2tlPz8j 를 base64 복호화해보자
+
+#1sthiss0m3kindOfJoke??#
+
+
+h4c{#1sthiss0m3kindOfJoke??#}

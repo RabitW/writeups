@@ -1,0 +1,10 @@
+modulation.docx 압축 해제
+
+
+document.xml에서 내용을 뒤져보면 
+6834637b573057212153756e6d695f69735f62336175376946756c21217d
+
+이런 문자열 있는데.. hex decode해주면 flag
+
+
+h4c{W0W!!Sunmi_is_b3au7iFul!!}
