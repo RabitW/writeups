@@ -1,1 +1,3 @@
-# Writeup of CTF/Wargame
+# Writeups of ctf/wargame
+
+Resolved and written by Safflower.
