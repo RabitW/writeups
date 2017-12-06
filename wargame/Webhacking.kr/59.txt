@@ -1,0 +1,2 @@
+nimda / 1,reverse(id)) -- 으로 join
+nimda / 1 으로 login

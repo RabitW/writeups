@@ -1,0 +1,2 @@
+PHPSESSID를 숫자가 안들어가는 문자열 (e.g. safflowersession)으로 설정하고 webhacking.kr에 로그인.
+하나더 이런식으로 로그인하고 동시에 ㄱㄱ
