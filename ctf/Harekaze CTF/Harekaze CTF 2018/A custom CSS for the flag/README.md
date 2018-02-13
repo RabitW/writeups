@@ -6,7 +6,7 @@
 2. 그리고 [log.php](./localhost/log.php)에 의해 접속된 [로그](./localhost/logs/)를 살펴보면, `163.43.29.129` 아이피로부터 접속된 로그에 flag를 구성하는 문자열인 `-{HFCzrokebatmlf_usni}Tdc`이 로깅되어있다.
 
 3. 본 문제의 설명에 flag는 CSS3 속성 2개를 언더스코어(`_`)로 이어붙인 문자열이라고 나와있다.
-	그러므로 CSS3 속성 테이블([css3_property_table.txt](css3_property_table.txt))을 만들어두고 매치시켜보면, flag로 예상되는 문자열들을 유효한 범위 내로 구할 수 있다.
-	이 부분은 손수 하기엔 시간이 오래 걸리므로 [자동화 스크립트](./get_flag_from_css3_table/)를 작성하여 돌렸다.
+	그러므로 CSS3 속성 테이블([css3_property_table.txt](./get_flag_from_css3_table/css3_property_table.txt))을 만들어두고 매치시켜보면, flag로 예상되는 문자열들을 유효한 범위 내로 구할 수 있다.
+	이 부분은 손수 하기엔 시간이 오래 걸리므로 [자동화 스크립트](./get_flag_from_css3_table/get_flag.py)를 작성하여 돌렸다.
 
 4. flag는 `HarekazeCTF{border-bottom-left-radius_animation-direction}`이다.
