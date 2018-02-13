@@ -1,0 +1,1 @@
+HarekazeCTF{border-bottom-left-radius_animation-direction}
