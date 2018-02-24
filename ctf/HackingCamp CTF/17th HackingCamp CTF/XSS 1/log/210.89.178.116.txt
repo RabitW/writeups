@@ -1,0 +1,2 @@
+flag=HCAMP{Next_Chall_URL_IS_XsS_38942abcod1a.php}
+
