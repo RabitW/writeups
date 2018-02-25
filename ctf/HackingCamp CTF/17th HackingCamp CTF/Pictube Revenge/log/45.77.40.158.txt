@@ -1,2 +1,0 @@
-PICTUBE=vsqknhjle4kl3u70sbj96fp1h4; FLAG=HCAMP{flag_is_very_simple_XDzz:)}
-
