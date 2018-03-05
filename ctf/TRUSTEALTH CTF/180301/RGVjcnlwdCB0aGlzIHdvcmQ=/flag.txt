@@ -1,0 +1,14 @@
+엄마가 오늘 저녁이라며 쪽지를 남겨주시고 갔는데
+나는 뭔 소린지 1도 모르겠거든...
+뭐라더라? base 뭐라뭐라 하던데....
+https://www.base64decode.org/ 이 사이트가 내게 도움을 준다고 했어!
+
+VFJVU1RFQUxUSA==
+
+정답은 제출형식에 맞게 제출해주세요! (모두 대문자로 적어주세요!)
+제출형식 | FLAG{해독한 단어}
+ex)FLAG{EXAMPLE}
+
+
+
+FLAG{TRUSTEALTH}

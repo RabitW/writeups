@@ -1,0 +1,2 @@
+C:\Users\Safflower>nc 198.13.62.9 5463
+TRUST{C4t_1s_s0_cut3...}

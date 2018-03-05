@@ -1,0 +1,6 @@
+http://search.dcinside.com/combine/q/flag.7BYou_know_tcp_protocol.7D
+
+로 접속한 패킷이 있다.
+
+
+flag{You_know_tcp_protocol}

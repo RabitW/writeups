@@ -1,0 +1,6 @@
+root@ubuntu:~/Desktop# python -c "print 12 * (10 - 3) + 1"
+85
+root@ubuntu:~/Desktop# ./Find_Key
+input : 85
+85
+TRUST{Welcome_to_dimi_life}

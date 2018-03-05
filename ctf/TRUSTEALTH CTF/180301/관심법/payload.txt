@@ -1,0 +1,4 @@
+curl "http://trustealth.ga/gwansimbub.html"
+
+
+FLAG{I_WANT_GO_H0ME}

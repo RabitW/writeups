@@ -1,0 +1,5 @@
+exe가 아니라 zip파일이다.
+
+
+
+FLAG{D0_n0t_judge_4_b00k_by_its_c0ver}

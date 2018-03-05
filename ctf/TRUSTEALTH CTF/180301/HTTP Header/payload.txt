@@ -1,0 +1,5 @@
+curl "http://dimitrust.oa.to:8080/trustctf/http_header/?url=xxxxxxxxxxx"
+
+
+
+TRUST{oh_can_you_bypass_it?}

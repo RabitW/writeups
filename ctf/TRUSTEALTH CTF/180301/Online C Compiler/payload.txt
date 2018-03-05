@@ -1,0 +1,65 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <dirent.h>
+#include <error.h>
+
+int main(){
+	DIR *dir; struct dirent *ent;
+	if ((dir = opendir ("./")) == NULL) return 0;
+
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+	if ((ent = readdir (dir)) != NULL) printf ("%s\n", ent->d_name);
+
+	closedir (dir);
+}
+
+
+
+
+css test submit.php font test.c . .. chm.c exploit .gdb_history chm Th1s_1s_F1a9.php index.html js style.css autosize.js Source
+
+
+
+
+
+
+
+#include <stdio.h>
+
+int main( ){
+	FILE *pFile = fopen( "./Th1s_1s_F1a9.php", "r" );
+	char strTemp[255];
+	char *pStr;
+	pStr = fgets( strTemp, sizeof(strTemp), pFile );
+	printf( "%s", strTemp );
+	printf( "%s", pStr );
+	fclose( pFile );
+	return 0;
+}
+
+
+
+TRUST{y0u_c4n_c0ding_with_C_0n_1inux!}

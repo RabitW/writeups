@@ -1,0 +1,4 @@
+워드 문서에 하얀글씨로 flag가 있다.
+
+
+FLAG{Ha_ha!!!_I_am_cute_and_handsome!_Do_you_admit?}

